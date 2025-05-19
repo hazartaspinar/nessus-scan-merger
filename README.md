@@ -31,5 +31,13 @@ Once you've exported your `.nessus` files, run the following command:
 ```bash
 python3 nessus_merger.py -d /home/user/Downloads
 
+### ✅ After the Merge
+
+Once the merge is complete, your scan results will be combined into a single `.nessus` file.  
+You can import this file back into Nessus for further analysis or reporting.
+
+![After the Merge](https://github.com/user-attachments/assets/45d1857c-17ce-42dd-91fc-bdcd1cab8a1d)
+
+
 
 
