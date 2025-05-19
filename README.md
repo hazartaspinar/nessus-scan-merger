@@ -14,16 +14,11 @@ Imagine you're conducting a full-scope vulnerability assessment to Microsoft, an
 
 and it is possible to combine these files into a single scan.
 
-
-### 📤 Exporting `.nessus` files from Nessus to Downloads folder
-
-![Export](https://github.com/user-attachments/assets/67fdbc51-1ca8-4db8-8884-dec98a1639a7)
-
----
-
 ## 🚀 Usage
 
 ### 📥 Exporting `.nessus` files from Nessus to Downloads folder
+
+This is how you can export `.nessus` scan files to your local `Downloads` folder from Nessus:
 
 ![Export](https://github.com/user-attachments/assets/67fdbc51-1ca8-4db8-8884-dec98a1639a7)
 
@@ -31,7 +26,10 @@ and it is possible to combine these files into a single scan.
 
 ### 🧪 Merge Command
 
+Once you've exported your `.nessus` files, run the following command:
+
 ```bash
 python3 nessus_merger.py -d /home/user/Downloads
+
 
 
