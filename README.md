@@ -17,7 +17,11 @@ and it is possible to combine these files into a single scan.
 ---
 
 ## 🚀 Usage
+before
 ![image](https://github.com/user-attachments/assets/bb6a89eb-104a-4083-a87e-392f5dcedfab)
+
+after
+![image](https://github.com/user-attachments/assets/f3beb7fd-1618-4acb-a279-4970b33b9435)
 
 ### 🔧 Basic Command
 
