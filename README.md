@@ -4,20 +4,15 @@
 
 ---
 
-## 📌 Features
+## 🛠 Example Use Case
 
-- ✅ Merge unlimited `.nessus` XML files
-- ✅ Avoids duplicate hosts and plugin findings
-- ✅ Outputs a valid `.nessus` file, importable back into Nessus or Tenable.sc
-- ✅ Python 3 compatible and portable
-- ✅ Easy CLI interface
+Imagine you're conducting a full-scope vulnerability assessment to Microsoft, and you've performed three separate Nessus scans:
 
----
+- 🏢 **Microsoft Office Network**
+- 📶 **Microsoft Datacenter Wi-Fi**
+- 🏠 **Bill Gates Local Network**
 
-## 📦 Requirements
-
-- Python 3.x  
-- No external dependencies (uses only built-in Python libraries)
+Each scan outputs a `.nessus` file.
 
 ---
 
