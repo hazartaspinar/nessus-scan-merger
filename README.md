@@ -17,13 +17,26 @@ and it is possible to combine these files into a single scan.
 ---
 
 ## 🚀 Usage
-before
-![image](https://github.com/user-attachments/assets/bb6a89eb-104a-4083-a87e-392f5dcedfab)
 
-after
-![image](https://github.com/user-attachments/assets/f3beb7fd-1618-4acb-a279-4970b33b9435)
+### 🔹 Before merging
 
-### 🔧 Basic Command
+![Before](https://github.com/user-attachments/assets/bb6a89eb-104a-4083-a87e-392f5cdedfba)
+
+---
+
+### 🔹 After merging
+
+![After](https://github.com/user-attachments/assets/f3beb7fd-1618-4acb-a279-4970b33b9435)
+
+---
+
+### 📤 Exporting `.nessus` files from Nessus to Downloads folder
+
+![Export](https://github.com/user-attachments/assets/67fdbc51-1ca8-4db8-8884-dec98a1639a7)
+
+---
+
+### 🧪 Merge Command
 
 ```bash
-python3 nessus_merger.py -d /path/to/nessus/files/
+python3 nessus_merger.py -d /home/user/Downloads
