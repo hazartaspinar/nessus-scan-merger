@@ -9,14 +9,14 @@
 Imagine you're conducting a full-scope vulnerability assessment to Microsoft, and you've performed three separate Nessus scans:
 
 - 🏢 **Microsoft Office Network**
-- 📶 **Microsoft Datacenter Wi-Fi**
-- 🏠 **Bill Gates Local Network**
+- 📶 **Microsoft Datacenter**
+- 🏠 **Bill Gates Home Local Network**
 
 and it is possible to combine these files into a single scan.
 
-## 🚀 Usage
+##  Usage
 
-### 📥 Exporting `.nessus` files from Nessus to Downloads folder
+### Exporting `.nessus` files from Nessus to Downloads folder
 
 This is how you can export `.nessus` scan files to your local `Downloads` folder from Nessus:
 
@@ -24,17 +24,18 @@ This is how you can export `.nessus` scan files to your local `Downloads` folder
 
 ---
 
-## 🧩 Merge Command
+## Merge Command
 
 Once you've exported your `.nessus` files, run the following command:
 
 "python3 nessus_merger.py -d /home/user/Downloads"
 
-## 🧩 After the Merge
+## After the Merge
 
 2 scan will be 1 scan now.
 
-![image](https://github.com/user-attachments/assets/d87c85f7-2121-4490-b53d-9a9c69f23e74)
+![image](https://github.com/user-attachments/assets/0f79ce7c-2c03-4c97-9658-5d4ead7a0bc7)
+
 
 
 
