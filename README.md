@@ -14,9 +14,21 @@ Imagine you're conducting a full-scope vulnerability assessment to Microsoft, an
 
 and it is possible to combine these files into a single scan.
 
+
+### 📤 Exporting `.nessus` files from Nessus to Downloads folder
+
+![Export](https://github.com/user-attachments/assets/67fdbc51-1ca8-4db8-8884-dec98a1639a7)
+
 ---
 
-## 🚀 Usage
+### 🛠 Usage
+
+```bash
+python3 nessus_merger.py -d /home/user/Downloads
+
+---
+
+## 🚀 Example
 
 ### 🔹 Before merging
 
@@ -27,16 +39,3 @@ and it is possible to combine these files into a single scan.
 ### 🔹 After merging
 
 ![After](https://github.com/user-attachments/assets/f3beb7fd-1618-4acb-a279-4970b33b9435)
-
----
-
-### 📤 Exporting `.nessus` files from Nessus to Downloads folder
-
-![Export](https://github.com/user-attachments/assets/67fdbc51-1ca8-4db8-8884-dec98a1639a7)
-
----
-
-### 🧪 Merge Command
-
-```bash
-python3 nessus_merger.py -d /home/user/Downloads
