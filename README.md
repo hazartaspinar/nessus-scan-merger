@@ -12,11 +12,12 @@ Imagine you're conducting a full-scope vulnerability assessment to Microsoft, an
 - 📶 **Microsoft Datacenter Wi-Fi**
 - 🏠 **Bill Gates Local Network**
 
-Each scan outputs a `.nessus` file.
+and it is possible to combine these files into a single scan.
 
 ---
 
 ## 🚀 Usage
+![image](https://github.com/user-attachments/assets/bb6a89eb-104a-4083-a87e-392f5dcedfab)
 
 ### 🔧 Basic Command
 
