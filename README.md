@@ -20,7 +20,7 @@ and it is possible to combine these files into a single scan.
 
 ### 🔹 Before merging
 
-![Before](https://github.com/user-attachments/assets/bb6a89eb-104a-4083-a87e-392f5cdedfba)
+![Before](![image](https://github.com/user-attachments/assets/329000bc-3cbf-45b8-9703-9332f03a7704)
 
 ---
 
